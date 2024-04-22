@@ -17,7 +17,7 @@
 - Enter into the Jenkins directory.
 
   ```
-  $ cd Jenkis
+  $ cd Jenkins
   ```
 
 - Run docker compose
