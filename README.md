@@ -6,7 +6,7 @@
 ### requirement:
 
 - Install [docker](https://docs.docker.com/engine/install/)
-- These instructions assume that you already are familiar with Jenkins; this is only a simple way on how to start a Jenkins docker container
+- These instructions assume that you are already familiar with Jenkins; this is only a simple way on how to start a Jenkins docker container
 
 
 
