@@ -6,6 +6,7 @@
 ### requirement:
 
 - Install [docker](https://docs.docker.com/engine/install/)
+- These instructions assume that you already are familiar with Jenkins; this is only a simple way on how to start a Jenkins docker container
 
 
 
@@ -34,7 +35,10 @@
   ```
 
  - If all went well you should see a login page like shown below:
+   
      ![image](https://github.com/LukaLmelias/Jenkins/assets/71344715/657e2feb-ed86-4895-b493-000a1b54a0e9)
+
+
 
 
 
