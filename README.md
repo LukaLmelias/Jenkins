@@ -1,4 +1,5 @@
 # Jenkins docker container
+![image](https://github.com/LukaLmelias/Jenkins/assets/71344715/68d5e4ce-0f5a-46b7-94b5-a401b193389c)
 
 # Usage:
 
