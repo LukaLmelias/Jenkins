@@ -20,11 +20,11 @@
   $ cd Jenkis
   ```
 
-  - Run docker compose
- 
-    ```
-    $ docker compose up 
-    ```
+- Run docker compose
+
+  ```
+  $ docker compose up 
+  ```
 
 
 
