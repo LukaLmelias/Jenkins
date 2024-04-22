@@ -8,7 +8,23 @@
 
 
 
+### starting the contatiner
 - clone this repo
-```
-$ git clone https://github.com/LukaLmelias/Jenkins.git
-```
+  ```
+  $ git clone https://github.com/LukaLmelias/Jenkins.git
+  ```
+
+- Enter into the Jenkins directory.
+
+  ```
+  $ cd Jenkis
+  ```
+
+  - Run docker compose
+ 
+    ```
+    $ docker compose up 
+    ```
+
+
+
