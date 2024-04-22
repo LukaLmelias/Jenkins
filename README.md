@@ -27,5 +27,10 @@
   $ docker compose up 
   ```
 
+- Now you can open your favourite browser and access Jenkins UI at port 8080 ; you paste the url below on your browser
+
+   ```
+  http://localhost:8080/
+  ```
 
 
